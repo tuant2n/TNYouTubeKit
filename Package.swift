@@ -26,6 +26,6 @@ let package = Package(
             dependencies: []),
         .testTarget(
             name: "YouTubeKitTests",
-            dependencies: ["YouTubeKit"]),
+            dependencies: ["TNYouTubeKit"]),
     ]
 )
